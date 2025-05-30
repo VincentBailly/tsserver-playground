@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./lib",
+        "declaration": true,
+        "declarationMap": true,
+        "strict": true,
+        "noUncheckedIndexedAccess": true,
+    },
+    "files": ["./src/index.ts"]
+}

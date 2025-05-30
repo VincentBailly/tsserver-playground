@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        // needs to be a dir where all imported .ts files are outside this package
+        // "rootDir": "./src",
+        "rootDir": "../..",
+        "outDir": "./lib",
+        "declaration": true,
+        "declarationMap": true,
+        "strict": true,
+    },
+    "files": [
+        "./src/index.ts"
+    ]
+}
